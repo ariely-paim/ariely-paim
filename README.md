@@ -1,7 +1,7 @@
 ### Hey! Eu sou a Arielly Paim 
 - 📚 No momento estou estudando Python e JavaScript
 - 😄 Pronouns: ela/dela
-<img align="right"  alt="Ary-gif" src="https://cdn.discordapp.com/attachments/873006121487568908/1137581357879533568/meu_gif.gif">
+<img align="right"  alt="Ary-gif" src="https://cdn.discordapp.com/attachments/873006121487568908/1137589082625671208/my_gif.gif">
   
 ###
 
