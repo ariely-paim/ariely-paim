@@ -1,14 +1,9 @@
-### Hey! Eu sou a Arielly Paim 
-- 📚 No momento estou estudando Python e JavaScript
-- 😄 Pronouns: ela/dela
-<img align="right"  alt="Ary-gif" src="https://cdn.discordapp.com/attachments/873006121487568908/1137589082625671208/my_gif.gif">
-  
-###
+## Hey! Eu sou a Arielly Paim 
 
-<div align="center">
+<div>
   <a href="https://github.com/ariely-paim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariely-paim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariely-paim&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariely-paim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariely-paim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,6 +17,7 @@
 
 <div>
   <a href="https://instagram.com/elly_paim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img align="right"  alt="Ary-gif" src="https://cdn.discordapp.com/attachments/873006121487568908/1137589082625671208/my_gif.gif">
   <!--
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
