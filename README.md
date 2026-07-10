@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=25&center=true&vCenter=true&width=1000&lines=Hey!+My+name+is+Ariely+Paim;I'm+22+years+old;I'm+from+Brazil,BA;I'm+pursuing+a+bachelor's+degree+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=61dafb&size=25&center=true&vCenter=true&width=1000&lines=Hey!+My+name+is+Ariely+Paim;I'm+22+years+old;I'm+from+Brazil,BA;I'm+pursuing+a+bachelor's+degree+in+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariely-paim&theme=react"/> <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariely-paim&theme=react"/> </div>
 
@@ -18,7 +18,7 @@
 </div>
 -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ariely-paim&bg_color=0d1117&color=058082&line=08565a&point=058082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ariely-paim&bg_color=0d1117&color=61dafb&line=50aac4&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 
   <!--
@@ -76,6 +76,13 @@
   ![Snake animation](https://github.com/ariely-paim/ariely-paim/blob/output/github-contribution-grid-snake.svg)
 -->
 
+<!--
+color=00bfbf - verde claro
+color=0d1117&color=058082&line=08565a&point=058082
+-->
 
+<p align="center"><i>Obrigada pela visita! Fique à vontade para explorar meus projetos e se conectar comigo.</i></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=footer"/>
+</div>
