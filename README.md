@@ -4,9 +4,11 @@
 
 
 ### Sobre Mim
-- 🎓 Estudante de **Engenharia de Software** na Universidade Católica do Salvador (UCSal).
-- 💡 Foco de estudo e desenvolvimento em **Engenharia de Software**, **Arquitetura de Backend**, **APIs REST** e **Bancos de Dados**.
-- 🛠️ Experiência prática no desenvolvimento de sistemas, microsserviços e soluções acadêmicas e aplicadas.
+🎓 Estudante de **Engenharia de Software** na Universidade Católica do Salvador (UCSal).
+
+💡 Foco de estudo e desenvolvimento em **Engenharia de Software**, **Arquitetura de Backend**, **APIs REST** e **Bancos de Dados**.
+
+🛠️ Experiência prática no desenvolvimento de sistemas, microsserviços e soluções acadêmicas e aplicadas.
 
 ---
 
