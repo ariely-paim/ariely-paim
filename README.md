@@ -30,7 +30,7 @@
 ### Onde me encontrar  ✉️
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ariely-paim-a61ba7294" target="_blank">
+  <a href="www.linkedin.com/in/ariely-paim-a81ba7294" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ariely.ff.paim@gmail.com" target="_blank">
